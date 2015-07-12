@@ -5,7 +5,7 @@ using System.Net;
 using CsvHelper;
 using Ionic.Zip;
 
-namespace IP2Location
+namespace IPToLocation
 {
     public static class IP2LocationHandler
     {

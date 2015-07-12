@@ -1,6 +1,6 @@
-﻿using IP2Location;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using IPToLocation;
 
 namespace Demo
 {

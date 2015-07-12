@@ -7,8 +7,8 @@
     <ProjectGuid>{5AE8F5AD-9FAF-4214-9259-38A85F89B4BF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IP2Location</RootNamespace>
-    <AssemblyName>IP2Location</AssemblyName>
+    <RootNamespace>IPToLocation</RootNamespace>
+    <AssemblyName>IPToLocation</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>

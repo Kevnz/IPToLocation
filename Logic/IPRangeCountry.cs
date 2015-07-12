@@ -1,4 +1,4 @@
-﻿namespace IP2Location
+﻿namespace IPToLocation
 {
     public class IPRangeCountry
     {
