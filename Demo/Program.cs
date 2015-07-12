@@ -16,6 +16,7 @@ namespace Demo
                 Console.WriteLine("From {0} to {1} is: {2}", ipRangeCountry.StartIP, ipRangeCountry.EndIP,
                     ipRangeCountry.ISO_Code_2);
             }
+	        Console.ReadLine();
         }
     }
 }
