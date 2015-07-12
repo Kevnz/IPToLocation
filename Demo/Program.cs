@@ -8,7 +8,7 @@ namespace Demo
     {
         private static void Main(string[] args)
         {
-            List<IPRangeCountry> range = IP2LocationHandler.Download();
+            List<IPRangeCountry> range = IPToLocationHandler.Download();
 
             //Save to database or whatever your backend storage is
             foreach (IPRangeCountry ipRangeCountry in range)
