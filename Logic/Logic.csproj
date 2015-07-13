@@ -39,6 +39,9 @@
     <Reference Include="Ionic.Zip">
       <HintPath>..\packages\DotNetZip.1.9.3\lib\net20\Ionic.Zip.dll</HintPath>
     </Reference>
+    <Reference Include="SpartanExtensions">
+      <HintPath>..\packages\SpartanExtensions.1.0.5557.30080\lib\net40\SpartanExtensions.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -48,7 +51,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IP2LocationHandler.cs" />
+    <Compile Include="CountryCache.cs" />
+    <Compile Include="IpAddressExtensions.cs" />
+    <Compile Include="IpAddressLocation.cs" />
+    <Compile Include="IPToLocationHandler.cs" />
     <Compile Include="IPRangeCountry.cs" />
     <Compile Include="IPRangeCountryMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
